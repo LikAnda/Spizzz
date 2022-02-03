@@ -1,5 +1,5 @@
 # Spizz
-by [LikAnda]
+<p>by</p><a href="https://github.com/LikAnda" target="_blank">LikAndatest</a>
 
 ----
 
@@ -43,7 +43,8 @@ by [LikAnda]
 </p>
 
 [//]:
-   [LikAnda]: <https://github.com/joemccann/dillinger>
+
+   [LikAnda]: <https://github.com/LikAnda>
 
 
 
