@@ -1,5 +1,5 @@
 # Spizz
-<p>by</p><a href="https://github.com/LikAnda" target="_blank">LikAndatest</a>
+by [LikAnda]
 
 ----
 
@@ -33,7 +33,7 @@
 ## Disclaimer
 
 **Please use this script only for educational purposes**
-**And to understand how it works, stealing information is punishable by law**
+**And to understand how it works, steal personal information is punishable by law**
 
 ----
 
@@ -45,9 +45,4 @@
 [//]:
 
    [LikAnda]: <https://github.com/LikAnda>
-
-
-
-
-
 

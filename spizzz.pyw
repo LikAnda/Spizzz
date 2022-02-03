@@ -47,7 +47,7 @@ class spizzz :
 
     data = {
         "content": "",
-        "username": "",
+        "username": "Spizzz",
         "embeds": [
             embed
             ],
