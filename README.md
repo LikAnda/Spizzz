@@ -30,14 +30,14 @@ by LikAnda
 
 ----
 
-### Disclaimer
+## Disclaimer
 
 **Please use this script only for educational purposes**
 **And to understand how it works, stealing information is punishable by law**
 
 ----
 
-## <p align="center">LikAnda</p>
+### <p align="center">LikAnda</p>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="81", height="86">
 </p>

