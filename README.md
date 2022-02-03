@@ -37,7 +37,7 @@ by LikAnda
 
 ----
 
-### <p align="center">LikAnda</p>
+## <p align="center">LikAnda</p>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="81", height="86">
 </p>
