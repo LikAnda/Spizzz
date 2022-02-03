@@ -23,7 +23,7 @@ class spizzz :
     computer_username = getenv("username")
 
 
-    url = "YOU WEBHOOKS ADRESS HERE" # Here, put the address of your discord webhooks. (example : https://discord.com/api/webhooks/fullnumbersandletters)
+    url = "YOUR WEBHOOKS ADRESS HERE" # Here, put the address of your discord webhooks. (example : https://discord.com/api/webhooks/fullnumbersandletters)
 
 
     embed = {
@@ -32,7 +32,7 @@ class spizzz :
         "fields": [
             {
                 "name": "**ShutDown :**",
-                        "value": f"__Shutdown in :__{ticks} seconds",
+                        "value": f"__Shutdown in :__ {ticks} seconds",
                         "inline": True
             },
             {
