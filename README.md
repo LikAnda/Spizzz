@@ -42,7 +42,6 @@ by [LikAnda]
 <img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="81", height="86">
 </p>
 
-[//]:
 
-   [LikAnda]: <https://github.com/LikAnda>
+[LikAnda]: <https://github.com/LikAnda>
 
