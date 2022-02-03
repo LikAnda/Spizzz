@@ -38,6 +38,7 @@ by LikAnda
 ----
 
 ### <p align="center">LikAnda</p>
+<img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="300", height="350">
 
 
 
