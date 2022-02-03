@@ -1,5 +1,5 @@
 # Spizz
-by [LikAnda]
+<p>by</p><a href="https://github.com/LikAnda" target="_blank">LikAndatest</a>
 
 ----
 
