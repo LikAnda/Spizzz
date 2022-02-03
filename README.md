@@ -38,7 +38,7 @@ by LikAnda
 
 ### <p align="center">LikAnda</p>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="222", height="229">
+<img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="122", height="129">
 </p>
 
 
