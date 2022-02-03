@@ -1,4 +1,4 @@
-# Spizz
+# Spizzz
 by [LikAnda]
 
 ----
