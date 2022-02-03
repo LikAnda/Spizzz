@@ -15,7 +15,6 @@ by LikAnda
 <br>
 > **Warning:** for obvious reasons do not run the file on your computer
 
-<br>
 ----
 
 ## Features
@@ -39,7 +38,7 @@ by LikAnda
 
 ### <p align="center">LikAnda</p>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="300", height="350">
+<img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="222", height="229">
 </p>
 
 
