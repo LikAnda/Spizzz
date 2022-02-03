@@ -1,5 +1,17 @@
 # Spizz
-by LikAnda
+by [LikAnda]
+
+----
+
+## Features
+
+- **Turn off a pc randomly** between two time limits
+
+- The script will run **each time the pc starts** after the first run
+
+- Get information how **ip address** or **username**
+
+- An instant send of data received by discord webhooks
 
 ----
 
@@ -18,18 +30,6 @@ by LikAnda
 
 ----
 
-## Features
-
-- **Turn off a pc randomly** between two time limits
-
-- The script will run **each time the pc starts** after the first run
-
-- Get information how **ip address** or **username**
-
-- An instant send of data received by discord webhooks
-
-----
-
 ## Disclaimer
 
 **Please use this script only for educational purposes**
@@ -41,6 +41,10 @@ by LikAnda
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/98820554?v=4" width="81", height="86">
 </p>
+
+[//]:
+
+   [LikAnda]: <https://github.com/LikAnda>
 
 
 
