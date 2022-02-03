@@ -26,7 +26,7 @@
 
 <br>
 
-> **Warning:** for obvious reasons do not run the file on your computer
+**Warning:** for obvious reasons do not run the file on your computer
 
 ----
 
